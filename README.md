@@ -7,8 +7,9 @@ Diarrhea is a common and potentially dangerous illness in children, particularly
 
 Other solutions for treating diarrhea in children include rehydration therapy, which involves giving the child oral rehydration solution (ORS) or intravenous fluids to replace lost fluids and electrolytes. Additionally, it is important to continue feeding the child during and after the episode of diarrhea, as malnutrition can exacerbate the condition.
  
-
+<img src="https://github.com/Arijit-Nath2/Arijit-Nath2/blob/main/figuress/Bar%20Og.PNG"/>
 ![image](https://github.com/Arijit-Nath2/Arijit-Nath2/blob/main/figuress/Bar%20Og.PNG)
+
 ## Increase in life expectancy 
 Advancements in medical technology and healthcare have led to significant increases in life expectancy over the past century. Early detection and treatment of diseases and illnesses have played a crucial role in improving life expectancy. When an illness or disease is detected and treated early, the chances of a successful recovery increase, which can lead to a longer and healthier life.
  
