@@ -17,7 +17,7 @@ Advancements in medical technology and healthcare have led to significant increa
 
 
 
-![image] (https://github.com/Arijit-Nath2/Arijit-Nath2/blob/main/figuress/treatmentvs.PNG)
+![image(https://github.com/Arijit-Nath2/Arijit-Nath2/blob/main/figuress/treatmentvs.PNG)
 
 
 
